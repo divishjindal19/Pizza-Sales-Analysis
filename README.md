@@ -1,7 +1,9 @@
 # Pizza Sales Analysis & Dashboard
 
-![Pizza Sales Dashboard 1](https://i.imgur.com/uUa6t4j.png)
-![Pizza Sales Dashboard 2](https://i.imgur.com/L7EHsUv.png)
+![Screenshot 2025-06-13 115902](https://github.com/user-attachments/assets/98e83b31-2aa7-45a8-bbb6-a15d5f9eae6d)
+
+![Uploading Screenshot 2025-06-13 115922.png…]()
+
 
 ## 🚀 Introduction
 
